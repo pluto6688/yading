@@ -12,7 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Header 2
+## "name": "CardanoStake09",
+## "description": "Cardano staking pool for all",
+## "ticker": "FIRE9"
+
 ### Header 3
 
 - Bulleted
