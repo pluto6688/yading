@@ -12,9 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Info
-## "name": "CardanoStake09",
-## "description": "Cardano staking pool for all",
-## "ticker": "FIRE9"
+## "name": "Stake4u",
+## "description": "Cardano staking pool for you",
+## "ticker": "ST4U"
 
 ### Header 3
 
